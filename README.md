@@ -10,3 +10,8 @@ Smile Detection using OpenCV &amp; Haarcascade's Dataset
 
 ### Blue Square => Face Detected
 ### Purple Square => Smile Detected
+
+
+# Haarcascade's Dataset 
+
+***Link & Credits - <a href = "https://github.com/opencv/opencv/tree/master/data/haarcascades">Haarcascade</a>***
